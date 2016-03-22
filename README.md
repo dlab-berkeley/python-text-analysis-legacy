@@ -1,2 +1,2 @@
 # Workshops
-Workshops for D-Lab
+Workshops for the D-Lab at UC Berkeley
