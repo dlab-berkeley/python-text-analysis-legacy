@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/henchc/workshops)
+
 # Workshops
 Workshops for the D-Lab at UC Berkeley
 
