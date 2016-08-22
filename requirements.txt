@@ -4,4 +4,4 @@ textblob
 scikit-learn
 pandas
 matplotlib
-BeautifulSoup
+beautifulsoup4
