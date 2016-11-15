@@ -1,1 +1,1 @@
-Welcome to natural language processing! Is it NLP or N.L.P.? Let's work with NLTK to learn how to process, classify, and extract information from texts.
+Welcome to natural language processing! Is it NLP or N.L.P.? Let's work with NLTK to process, classify, and extract information from texts.
